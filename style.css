@@ -10,6 +10,7 @@ margin:0%
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    margin: 0%;
     
   }
   
@@ -29,17 +30,17 @@ margin:0%
     
   }
   .color{
-      color: rgb(238, 15, 15);
+      color: rgb(4, 248, 248);
   }
   .second{
     text-align: center;
     
   }
   .white{
-    color: rgb(82, 65, 44);
     text-align: center;
     padding-left: 20%;
     padding-right: 20%;
+    color:green;
   }
   .second{
     color: black;
@@ -200,7 +201,7 @@ margin:0%
     font-style: italic;
     color:#eb6710;
   }
-  .white{
+  .te{
     color: azure;
   }
   .gap{
